@@ -1,0 +1,22 @@
+{
+  "name": "closure-to-typescript-converter",
+  "version": "0.0.0",
+  "description": "Convert JavaScript for the Closure Compiler to TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wernerdegroot/closure-to-typescript-converter.git"
+  },
+  "author": "Werner de Groot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wernerdegroot/closure-to-typescript-converter/issues"
+  },
+  "homepage": "https://github.com/wernerdegroot/closure-to-typescript-converter",
+  "dependencies": {
+    "esprima": "^2.4.0"
+  }
+}
